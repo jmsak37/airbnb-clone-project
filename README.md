@@ -81,3 +81,27 @@ User-friendly design reduces friction & increases conversion rates for bookings.
 ### Why user-friendly design matters 
 User-friendly design reduces friction & increases conversion rates for bookings. Clear navigation, consistent visuals, and an accessible checkout flow reduce errors, support user trust, and lead to higher satisfaction and repeat bookings. 
  
+### More UI/UX Design Planning 
+ 
+**Color styles** 
+- Primary: #FF5A5F 
+- Secondary: #008489 
+- Background: #FFFFFF 
+- Text: #222222 
+- Secondary Text: #717171 
+ 
+**Typography** 
+- Primary font family: Circular 
+- Weights: Book (400), Medium (500), Bold (700) 
+- Body font size: 16px 
+- Secondary text size: 14px 
+- Headings: 24px - 32px (H1-H3 ranges) 
+ 
+**Why identifying design properties matters** 
+Identifying color styles and typography in a mockup ensures visual consistency, speeds up frontend implementation, and reduces rework. It helps developers create reusable components, makes CSS variables/theme tokens straightforward, and ensures accessibility checks (contrast, legibility) are applied uniformly. 
+ 
+**UI/UX TODOs** 
+- Confirm Figma tokens and export color palette. 
+- Add Typography tokens and font files or font-stack fallback. 
+- Create CSS variables or theme config for colors and type. 
+ 
