@@ -105,3 +105,39 @@ Identifying color styles and typography in a mockup ensures visual consistency, 
 - Add Typography tokens and font files or font-stack fallback. 
 - Create CSS variables or theme config for colors and type. 
  
+## Project Roles and Responsibilities 
+ 
+Below are the core roles, their responsibilities, and how each contributes to the project success: 
+ 
+- Project Manager: Oversees timeline, coordinates team communication, tracks milestones, and ensures deliverables meet scope and deadlines. 
+- Frontend Developers: Build UI components, implement responsive layouts, integrate with backend APIs, and ensure cross-browser accessibility and performance. 
+- Designers: Create mockups and prototypes in Figma, define color and typography tokens, and collaborate with frontend to ensure visual fidelity and UX quality. 
+- QA/Testers: Define test cases, run manual and automated tests, report bugs, and verify fixes to ensure functionality and reliability. 
+- DevOps Engineers: Configure CI/CD pipelines, manage hosting and deployment, monitor performance and uptime, and automate infrastructure provisioning. 
+- Product Owner: Defines requirements and priorities, reviews deliverables for business alignment, and acts as stakeholder liaison. 
+- Scrum Master: Facilitates agile ceremonies, removes blockers for the team, and helps maintain the sprint cadence. 
+ 
+For each role, clear communication and shared documentation (issues, PRs, and a project board) are essential for project success. 
+ 
+## UI Component Patterns 
+ 
+We'll design reusable UI components to keep the interface consistent and speed up development: 
+ 
+- Navbar: Site logo, search bar, user account menu, responsive hamburger menu for mobile. Should be accessible and keyboard navigable. 
+ 
+- Property Card: Image thumbnail, title, location, price per night, rating, and favorite button. Designed to be used in grids and lists with responsive sizing. 
+ 
+- Footer: Site links, contact info, social links, and legal text. Present on all pages and responsive. 
+ 
+- Additional planned components: Listing gallery (carousel), Booking form (date picker, guests selector), Filters panel, Modal dialogs (login, booking confirmation), and Loader/Placeholder components. 
+ 
+Each component will have props/variants for reuse across pages, and we will document props and usage in a components README or Storybook. 
+ 
+## Manual Review 
+ 
+When the project is ready for assessment: 
+- Ensure core files are present: README.md, frontend/, backend/ (or relevant folders). 
+- Push the latest code to the repository main branch. 
+- Add screenshots, a deployed link (if available), and any setup notes for the reviewer. 
+- On the course/platform, request Manual QA review and provide the GitHub repository link: https://github.com/jmsak37/airbnb-clone-project 
+ 
