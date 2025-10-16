@@ -133,11 +133,4 @@ We'll design reusable UI components to keep the interface consistent and speed u
  
 Each component will have props/variants for reuse across pages, and we will document props and usage in a components README or Storybook. 
  
-## Manual Review 
- 
-When the project is ready for assessment: 
-- Ensure core files are present: README.md, frontend/, backend/ (or relevant folders). 
-- Push the latest code to the repository main branch. 
-- Add screenshots, a deployed link (if available), and any setup notes for the reviewer. 
-- On the course/platform, request Manual QA review and provide the GitHub repository link: https://github.com/jmsak37/airbnb-clone-project 
- 
+
