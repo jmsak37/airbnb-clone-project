@@ -33,3 +33,27 @@ StayEase is a full-stack clone of a property booking platform inspired by Airbnb
  
 **License** 
 MIT 
+## UI/UX Design Planning 
+ 
+### Design goals 
+- Create an intuitive booking flow that minimizes steps and decisions for users. 
+- Maintain visual consistency across pages and components. 
+- Prioritize mobile-first responsive layouts. 
+- Ensure accessibility and performance for all users. 
+ 
+### Key features 
+- Property search and advanced filtering (location, price, amenities). 
+- High-quality listing galleries with lazy-loading and image placeholders. 
+- Secure user authentication and account management. 
+- Streamlined checkout and booking flow with clear confirmations. 
+- Responsive UI components and reusable design system. 
+ 
+| Page | Description | 
+| --- | --- | 
+| Property Listing View | Grid display of available properties with filters, sorting, and quick actions (favorite, view details). Responsive layout that adapts from mobile to desktop. | 
+| Listing Detailed View | Detailed gallery, property description, amenities, host info, reviews, and an embedded booking form for selecting dates and guests. | 
+| Simple Checkout View | Summary of booking, form for payment details and guest info, clear pricing breakdown and confirmation page with booking reference. | 
+ 
+### Why user-friendly design matters 
+User-friendly design reduces friction & increases conversion rates for bookings. Clear navigation, consistent visuals, and an accessible checkout flow reduce errors, support user trust, and lead to higher satisfaction and repeat bookings. 
+ 
